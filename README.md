@@ -1,5 +1,7 @@
 # 🪟 Fluetro OS 1.0
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-online-brightgreen?style=flat-square)](https://tonystark965-404.github.io/Fluetro-OS-1.0/)
+
 A modern, responsive WebOS inspired by a blend of Windows 8.1 Metro and Windows 11 Fluent Design aesthetics. Built entirely with HTML, CSS, and JavaScript, Fluetro OS brings a complete desktop experience right into your web browser.
 
 ---
