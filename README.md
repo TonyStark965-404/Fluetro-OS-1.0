@@ -39,7 +39,7 @@ To run Fluetro OS locally on your machine:
 3.Open the project:
   Simply double-click index.html to open it in any web browser or use VS Code's Live Server extension to launch local development.
 
-##📸 Usage
+## 📸 Usage
 
 -Open Apps: Click on any taskbar icon or desktop tile to launch windows.
 
@@ -47,7 +47,7 @@ To run Fluetro OS locally on your machine:
 
 -Customization: Right-click and Personalize to update wallpapers and toggle visual UI properties.
 
-##👏 Credits & Acknowledgments
+## 👏 Credits & Acknowledgments
 -Icons8: For providing some system and application icons.
 
 -Unsplash: For supplying high-resolution desktop wallpapers.
