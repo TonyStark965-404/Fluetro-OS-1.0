@@ -40,18 +40,17 @@ To run Fluetro OS locally on your machine:
   Simply double-click index.html to open it in any web browser or use VS Code's Live Server extension to launch local development.
 
 📸 Usage
-Open Apps: Click on any taskbar icon or desktop tile to launch windows.
+-Open Apps: Click on any taskbar icon or desktop tile to launch windows.
 
-Window Management: Drag, resize, or close open applications seamlessly.
+-Window Management: Drag, resize, or close open applications seamlessly.
 
-Customization: Head to Settings to update wallpapers.
+-Customization: Right-Click and select Personalize to update wallpapers.
 
 👏 Credits & Acknowledgments
-Icons8: For providing some system and application icons.
+-Icons8: For providing some system and application icons.
 
-Unsplash: For supplying high-resolution desktop wallpapers.
+-Unsplash: For supplying high-resolution desktop wallpapers.
 
-Wikimedia Commons: For hosting the official Happy Wheels logo asset.
+-Wikimedia Commons: For hosting the official Happy Wheels logo asset.
 
-Gemini AI: For serving as an AI development collaborator on Design concept, help with code implementation, minor adjustments, and iconography.
-v
+-Gemini AI: For serving as an AI development collaborator on Design concept, help with code implementation, minor adjustments, and iconography.
